@@ -2,4 +2,4 @@
 
 Output:
 
-![KMeans output](/output.png)
+![Probabilistic CKY output](/output.png)
